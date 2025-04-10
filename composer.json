@@ -1,0 +1,19 @@
+{
+    "name": "davey-jiang/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "DaveyJiang\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David",
+            "email": "jw123456jw@sohu.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
